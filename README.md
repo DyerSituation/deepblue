@@ -4,3 +4,4 @@ Deepblue is a convolutional neural network designed to automatically classify th
 
 ###Contributers
 David Lee 
+Erik Dyer
